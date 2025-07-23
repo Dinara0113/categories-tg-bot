@@ -26,10 +26,6 @@ Category Tree Bot — это Telegram-бот на Spring Boot и PostgreSQL дл
 
 1. Клонируй репозиторий
 
-bash
-git clone https://github.com/your-username/category-tree-bot.git
-cd category-tree-bot
-
 2. Создай файл src/main/resources/application.properties и укажи параметры:
 spring.datasource.url=jdbc:postgresql://localhost:5432/category_db
 spring.datasource.username=postgres
